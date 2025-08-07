@@ -1,40 +1,40 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
-  I'm <strong>Liza</strong> — a software developer from <strong>Tomsk</strong>, Russia 🇷🇺<br/>
-  Passionate about clean code, UI, and meaningful products 🚀
+I'm <strong>Liza</strong>, a software developer from <strong>Tomsk</strong>, passionate about clean code, elegant UI, and continuous learning.
 </p>
 
 ---
 
-### 🧠 About Me
+### 👩‍💻 About Me
 
 - ✨ Creating bugs since **2022**
 - 📚 Currently learning **Python** and **Docker** 🐳
-- 🎯 Goals:  
-  &nbsp;&nbsp;&nbsp;&nbsp;➤ Build products that truly help people 🌍  
-  &nbsp;&nbsp;&nbsp;&nbsp;➤ Work remotely from anywhere in the world 🧳  
-- 🎮 In my free time, I love playing **online games**, reading **books**, and doing **sports** occasionally 🏃‍♀️
+- 🎯 Goals:
+  - Build meaningful products that help people 🌍
+  - Work remotely from anywhere in the world 🧳
+- 🎲 Hobbies:
+  - Playing online games 🎮
+  - Reading books 📚
+  - Occasionally doing sports 🏃‍♀️
 
 ---
 
-### 💻 I Code With
+### 🛠 I Code With
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-<p align="center">
-  <em>Thanks for stopping by! 🌟</em>
-</p>
+<p align="center">✨ Thanks for stopping by! ✨</p>
 
 
 <!--
