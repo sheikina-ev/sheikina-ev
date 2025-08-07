@@ -8,14 +8,14 @@ I'm <strong>Liza</strong>, a software developer from <strong>Tomsk</strong>, pas
 
 ### 👩‍💻 About Me
 
-- ✨ Creating bugs since **2022**
+- 🎓 Growing as a developer since **2022**
 - 📚 Currently learning **Python** and **Docker** 🐳
 - 🎯 Goals:
   - Build meaningful products that help people 🌍
   - Work remotely from anywhere in the world 🧳
 - 🎲 Hobbies:
-  - Playing online games 🎮
-  - Reading books 📚
+  - Playing online games 🎮  
+  - Reading books 📚  
   - Occasionally doing sports 🏃‍♀️
 
 ---
@@ -35,6 +35,7 @@ I'm <strong>Liza</strong>, a software developer from <strong>Tomsk</strong>, pas
 ---
 
 <p align="center">✨ Thanks for stopping by! ✨</p>
+
 
 
 <!--
